@@ -10,7 +10,7 @@ keywords = ["wayland", "client"]
 description = "Toolkit for making client wayland applications."
 
 [badges]
-travis-ci = { repository = "smithay/client-toolkit" }
+travis-ci = { repository = "Smithay/client-toolkit" }
 
 [dependencies]
 bitflags = "1.0"
